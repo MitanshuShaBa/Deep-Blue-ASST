@@ -1,0 +1,12 @@
+[submodule "Deep-blue-Hardware"]
+	path = Deep-blue-Hardware
+	url = https://github.com/Milindr284/Deep-blue-Hardware.git
+[submodule "Deep-Blue-Server"]
+	path = Deep-Blue-Server
+	url = https://github.com/MitanshuShaBa/Deep-Blue-Server.git
+[submodule "Deep-Blue-ASST-web"]
+	path = Deep-Blue-ASST-web
+	url = https://github.com/MitanshuShaBa/Deep-Blue-ASST-web.git
+[submodule "DeepBlueASST-app"]
+	path = DeepBlueASST-app
+	url = https://github.com/MitanshuShaBa/DeepBlueASST-app.git
